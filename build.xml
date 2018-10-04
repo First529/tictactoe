@@ -16,7 +16,7 @@
 	<property name="test.src.dir" location="test" />
 	<property name="test.build.dir" location="bin/test" />
 	<!-- lib.dir contains JUnit libraries -->
-	<property name="lib.dir" value="lib" /> 
+	<property name="lib.dir" value="lib" />
 
     <!-- TODO Replace constants "src", "bin", "bin/test", "test", "lib", "."
               in the following rules with the properties named above
